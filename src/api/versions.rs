@@ -1,0 +1,1 @@
+pub const API_URL: &str = "https://discord.com/api/v8";
